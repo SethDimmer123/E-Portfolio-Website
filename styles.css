@@ -229,7 +229,8 @@ transition:all 300ms ease;
 
 .language__list{
     display: flex;
-align-items: center;  
+align-items: center;
+margin-left: 20%;  
 }
 
 .language__name{
